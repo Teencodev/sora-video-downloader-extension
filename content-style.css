@@ -1,0 +1,7 @@
+#sora2dl-download-btn {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+#sora2dl-download-btn:hover {
+  background: linear-gradient(135deg, #2563eb, #6d28d9) !important;
+}
